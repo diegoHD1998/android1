@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CicleLife</string>
+    <string name="boton"  >Iniciar sesión </string>
+    <string name="textEmail"  >Ingrese su correo </string>
+    <string name="textoPass"  >Ingrese su contaseña </string>
+    <string name="hola" >Hola Mundo</string>
+</resources>
